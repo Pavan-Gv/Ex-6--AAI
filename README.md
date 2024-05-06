@@ -1,5 +1,5 @@
-<H1>ENTER YOUR NAME : G Venkata Pavan Kumar</H1>
-<H1>ENTER YOUR REGISTER NO.: 212221240013</H1>
+<H5>ENTER YOUR NAME : G Venkata Pavan Kumar</H5>
+<H5>ENTER YOUR REGISTER NO.: 212221240013</H5>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>

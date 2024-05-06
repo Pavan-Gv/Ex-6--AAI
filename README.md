@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H1>ENTER YOUR NAME : G Venkata Pavan Kumar</H1>
+<H1>ENTER YOUR REGISTER NO.: 212221240013</H1>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
@@ -17,10 +17,6 @@ Step 5:Iterate through each word in the tokenized text.<br>
 •	Extract synonyms and antonyms using lemma.name() and lemma.antonyms()[0].name() respectively.<br>
 •	Print the unique sets of synonyms and antonyms.
 <H3>Program:</H3>
-```
-Developed By : G Venkata Pavan Kumar
-Reg. No: 212221240013
-```
 
 ```python
 import nltk
